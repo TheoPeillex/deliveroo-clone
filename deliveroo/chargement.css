@@ -1,0 +1,15 @@
+body{
+    background-color: #00CDBC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.logo{
+    background-image:url(img/pngfind.com-swagat-png-6450831.png) ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 60px;
+}
